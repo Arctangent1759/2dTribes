@@ -7,4 +7,4 @@ Dependencies:
 Running:
 --------
 
-$ nodejs index.js
+<code>$ nodejs index.js</code>
